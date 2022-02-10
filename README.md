@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuella22
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...HTML,CSS,JS,REACT.JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to meeting other developers.
 - 📫 How to reach me ... emmanuellaonedibe@gmail.com
 
 <!---
