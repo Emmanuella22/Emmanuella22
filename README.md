@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Emmanuella22
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...HTML,CSS,JS,REACT.JS
-- 💞️ I’m looking forward to meeting other developers.
+-  Hi 👋, I’m Ella
+- I'm passionate software developer,
+ open to collaborations and meeting new people.
 - 📫 How to reach me ... emmanuellaonedibe@gmail.com
 
 <!---
