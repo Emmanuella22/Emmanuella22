@@ -1,5 +1,5 @@
--  Hi 👋, I’m Ella
-- I'm passionate software developer,
+-  Hi 👋, I’m Emmanuella.
+- I'm a passionate software developer,
  open to collaborations and meeting new people.
 - 📫 How to reach me ... emmanuellaonedibe@gmail.com
 
